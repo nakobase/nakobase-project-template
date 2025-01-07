@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nakobase/nakobase-project-template/compare/v1.1.0...v1.1.1) (2025-01-07)
+
+
+### Bug Fixes
+
+* add rules key to commitlint.config.js ([6e2be1e](https://github.com/nakobase/nakobase-project-template/commit/6e2be1e205e263f722c7dda4f1c249c07b80f47b))
+
 # [1.1.0](https://github.com/nakobase/nakobase-project-template/compare/v1.0.0...v1.1.0) (2024-08-23)
 
 
